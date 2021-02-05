@@ -3,4 +3,4 @@
 # SD Computing Studies Assignment
 # this program will display "hello world"
 
-print("Hello world!")
+print("hello world")
